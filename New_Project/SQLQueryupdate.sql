@@ -1,0 +1,9 @@
+UPDATE [NewTable_ADD]
+ SET	[ITEMID] = '00000000', 
+[INVENTDIMID] = N'???', 
+[SPC_IMAGEPATH] = '//'
+WHERE [ITEMBARCODE] = '12111150'
+AND   [SPC_ITEMBUYERGROUPID] = 'D120'
+select * 
+from [NewTable_ADD]
+

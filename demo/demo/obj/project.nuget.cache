@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uUxWc4hNP/xtoZLswyCkAWXgP5molKQXQaVOSYuKSeJzECgEWecVDipyhHv5SI5gv16GSdTpd24RvPvGYfidg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nattida\\Documents\\Nattida-test\\demo\\demo\\demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nattida\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
